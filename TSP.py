@@ -2,7 +2,7 @@ from City import *
 import math
 import random
 
-class STP:
+class TSP:
 
     def __init__(self, n, dist):
         self.n = n
