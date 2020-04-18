@@ -1,9 +1,9 @@
-from STP import *
+from TSP import *
 
 
 def main():
 
-    s = STP(0,0)
+    s = TSP(0,0)
     s.readFromFile()
     best = 99999
     sum = 0
